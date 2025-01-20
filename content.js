@@ -1,4 +1,4 @@
-const API_ENDPOINT = "https://safebrowsing.googleapis.com/v4/threatMatches:find?key=AIzaSyAP3iAXqYFcRGrZbwF1EGxH8HTxw_Rjkpk";
+const API_ENDPOINT = "";
 
 // Fonction pour marquer les liens frauduleux
 function markFraudulentLink(linkElement) {
